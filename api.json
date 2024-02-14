@@ -1,0 +1,86 @@
+[
+    {
+        "precio":30.00,
+        "id": 1,
+        "title":"MaruChetto",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%201.png"
+    },
+
+    {
+        "precio":20.00,
+        "id": 2,
+        "title":"Pringles",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%202.png"
+    },
+
+    {
+        "precio":54.00,
+        "id": 3,
+        "title":"Chocolates",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%203.png"
+    },
+
+     {
+        "precio":100.00,
+        "id": 4,
+        "title":"Pack Chocolates",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%204.png"
+    },
+
+     {
+        "precio":15.00,
+        "id": 5,
+        "title":"Lucas ",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%205.png"
+    },
+
+     {
+        "precio":16.00,
+        "id": 6,
+        "title":"Dr.Pepper",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%206.png"
+    },
+
+     {
+        "precio":33.00,
+        "id": 7,
+        "title":"Palomitas Cheetos",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%207.png"
+    },
+
+     {
+        "precio":42.00,
+        "id": 8,
+        "title":"Gomitas Sour Patch",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%208.png"
+    },
+
+     {
+        "precio":120.00,
+        "id": 9,
+        "title":"Takis Bote",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%209.png"
+    },
+
+     {
+        "precio":18.00,
+        "id": 10,
+        "title":"Snickers Doble",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%2010.png"
+    },
+
+     {
+        "precio":22.00,
+        "id": 11,
+        "title":"Mentas",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%2011.png"
+    },
+
+     {
+        "precio":33.00,
+        "id": 12,
+        "title":"Hot-Dog",
+        "thumbnailUrl": "https://clasesfpd.000webhostapp.com/Imagenes%20Cine/Producto%2012.png"
+    }
+    
+]
